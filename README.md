@@ -17,20 +17,6 @@ The papers collected in this repo are manually selected by myself, I am hoping t
 （注意：部分深入解释 Meta-Learning 的论文并未收入到此仓库中，有兴趣的朋友可以发 issue 一起讨论）。
 
 
-### Contents
-<!-- vim-markdown-toc GitLab -->
-
-  * [Paper Collection Categories](#paper-collection-categories)
-    * [CV](#cv)
-    * [NLP](#nlp)
-  * [Awesome Resources](#awesome-resources)
-    * [Relevant Awesome Datasets Repo](#relevant-awesome-datasets-repo)
-    * [Relevant Awesome Few-shot PlayGround Repo](#relevant-awesome-few-shot-playground-repo)
-    * [Relevant Awesome Blogs](#relevant-awesome-blogs)
-  * [How to recommend a paper](#how-to-recommend-a-paper)
-  * [Maybe Maybe Buy me a coffee](#maybe-maybe-buy-me-a-coffee)
-  * [ChangeLog](#changelog)
-* [Main Contributors](#main-contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -91,25 +77,4 @@ We collect some awesome code and blogs here.
 - [Meta-Learning in Neural Netorks: A Survey](https://arxiv.org/pdf/2004.05439.pdf)
     * Meta-Learning methods are not equal to Few-shot Learning methods.
 
-### How to recommend a paper
-You are highly welcome to recommend a paper to this repo. 
-The only thing you need to do is make a new issue with its name, conference name, years and some recommends words(no more than 400 words).
 
-非常欢迎大家来推荐相关论文呀，推荐论文的方式非常简单，只需要提交一个 Issue，并在 Issue 中写清楚论文的题目，发表的会议名称以及年份和一个不超过 400 字的推荐理由即可。
-
-> EXAMPLE
->
-> Title: [ICML 2019] TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning
->
-> Recommend: First paper point out how to measure the backbone is bad or good for the current task(episode).
-
-### Maybe Maybe Buy me a coffee
-<div align=center><img width="500" height="500" src="https://github.com/Duan-JM/awesome-papers-fewshot/blob/master/assets/wechat.JPG", alt="谢谢老板">
-
-### ChangeLog
-- 2020-06-26 `REAMIN_SORTED_PAPAERS.md` no longer collected all papers from arxiv, only interesting and effectiveness ones will be collected here
-
-## Main Contributors
-- [Duan-JM](https://github.com/Duan-JM) (Founder) (Image Classification)
-- [Bryce1010](https://github.com/Bryce1010) (Segementation)
-- [ximingxing](https://github.com/ximingxing)
